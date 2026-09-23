@@ -123,3 +123,12 @@ condition
 
 ? - if
 : - else 
+
+## Switch Case
+## loops (For loop, While loop)
+## Functions (normal Function, parameters and arguments, function overloading, recursion function, lambda function)
+## Pointer 
+## reference
+## standard libraries management in C++
+## dynamic memory management in C++
+## OOPs (object Oriented Programming in C++)
